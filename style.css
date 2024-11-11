@@ -1,0 +1,47 @@
+.button {
+    background-color: #1db964;
+    border: none;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    padding: 15px 32px;
+    display: inline-block;
+    font-size: 16px;
+    font-family: "Lucida Console", monospace; 
+}
+
+body {
+    background-color: black;
+    color: white;
+    text-align: left;
+    padding: 10px;
+}
+#header {
+    font-family: "Copperplate", fantasy;
+    color: white;
+
+}
+.images {
+    border-radius: 8px;
+    padding: 5px;
+    border: 2px solid #999;
+}
+figure {
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    width: auto\9;
+}
+
+.parentFigureStyle {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+}
